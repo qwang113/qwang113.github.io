@@ -1,1 +1,1 @@
-Spatial Deep Convolutional Neural Network
+- Spatial Deep Convolutional Neural Network (Coming soon on Arxiv)
