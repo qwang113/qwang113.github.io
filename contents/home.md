@@ -7,7 +7,7 @@ Email: qwang113@ucsc.edu\
 Address: 1156 High St, Santa Cruz, CA 95064
 
 #### Education
-Ph.D. in Statistical Science, University of California, Santa Cruz (2021 till now).\
+Ph.D. in Statistical Science, [University of California, Santa Cruz](https://www.ucsc.edu/) (2021 till now).\
 M.S. in Statistics, [University of California, Irvine](https://uci.edu/) (2019-2021). \
 B.S in Applied Statistics, [Central University of Finance and Economics](https://en.cufe.edu.cn/) ([中央财经大学](https://www.cufe.edu.cn/)) (2015-2019)
 
