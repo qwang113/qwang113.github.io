@@ -246,16 +246,32 @@ sup {
 }
 
 a {
-  color: var(--bs-link-color);
-  text-decoration: underline;
-}
-a:hover {
-  color: var(--bs-link-hover-color);
+  color: #2ecc71; /* Green color */
+  text-decoration: none; /* Remove underline */
+  position: relative; /* Required for pseudo-element positioning */
+  font-weight: 600; /* Slightly bold text */
 }
 
-a:not([href]):not([class]), a:not([href]):not([class]):hover {
-  color: inherit;
-  text-decoration: none;
+a::after {
+  content: ''; /* Required for pseudo-element */
+  position: absolute;
+  left: 0;
+  bottom: -2px;
+  width: 100%;
+  height: 2px;
+  background: #2ecc71; /* Underline color */
+  transform: scaleX(0);
+  transform-origin: bottom right;
+  transition: transform 0.3s ease-out;
+}
+
+a:hover::after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}
+
+a:visited {
+  color: #95a5a6; /* Gray color for visited links */
 }
 
 pre,
