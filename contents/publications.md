@@ -1,1 +1,1 @@
-- Spatial Deep Convolutional Neural Network (Coming soon on Arxiv)
+- Wang, Qi, Paul A. Parker, and Robert B. Lund. "Spatial Deep Convolutional Neural Networks." *arXiv preprint arXiv:2409.07559* (2024).
