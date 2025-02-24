@@ -1,1 +1,2 @@
-- Wang, Qi, Paul A. Parker, and Robert B. Lund. "Spatial Deep Convolutional Neural Networks." *arXiv preprint arXiv:2409.07559* (2024).
+- Wang, Qi, Paul A. Parker, and Robert Lund. "Spatial deep convolutional neural networks." *Spatial Statistics (2025)*: 100883.
+- Wang, Qi, Paul A. Parker, and Robert B. Lund. "Hierarchical Count Echo State Network Models with Application to Graduate Student Enrollments." *arXiv preprint arXiv:2501.14698* (2025).

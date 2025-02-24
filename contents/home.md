@@ -1,6 +1,6 @@
 [![qwang113](https://img.shields.io/badge/qwang113-github-blue?logo=github)](https://github.com/qwang113)
 
-I am a current Ph.D. candidate in [University of California, Santa Cruz](https://www.ucsc.edu/), advised by [Paul A. Parker](https://www.paparkerstat.com/). I also work with [Robert B. Lund](https://engineering.ucsc.edu/voices/robert-lund-faculty/) at UC Santa Cruz. We are working on modeling spatio-temporal count data via combining classical vector auto-regressive (VAR) methods with deep learning approaches.
+I am a current Ph.D. candidate in [University of California, Santa Cruz](https://www.ucsc.edu/), advised by [Paul A. Parker](https://www.paparkerstat.com/). I also work with [Robert B. Lund](https://engineering.ucsc.edu/voices/robert-lund-faculty/) at UC Santa Cruz. We are working on modeling spatial and spatio-temporal data via combining classical autoregressive model with deep learning architectures.
 
 ## Contact
 Email: qwang113@ucsc.edu\
@@ -12,5 +12,5 @@ M.S. in Statistics, [University of California, Irvine](https://uci.edu/) (2019-2
 B.S in Applied Statistics, [Central University of Finance and Economics](https://en.cufe.edu.cn/) ([中央财经大学](https://www.cufe.edu.cn/)) (2015-2019)
 
 ## Research Interests
-Deep Learning, Spatial Data, Count Time Series
+Deep Learning, Spatial Data, Count Time Series, Markov Chains
 
