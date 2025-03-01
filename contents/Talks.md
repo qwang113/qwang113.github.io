@@ -1,2 +1,2 @@
-- (Contributed Submission) 2024 Joint Statistical Meetings(JSM), *Spatial Deep Convolutional Neural Networks* in "Recent Advances in Machine Learning Based Methods for Spatio-Temporal Analysis"
+- (Contributed Session) 2024 Joint Statistical Meetings(JSM), *Spatial Deep Convolutional Neural Networks* in "Recent Advances in Machine Learning Based Methods for Spatio-Temporal Analysis"
 - (Topic-contributed Session) 2025 Joint Statistical Meetings(JSM), *Hierarchical Count Echo State Network Models with Application to Graduate Student Enrollments* in "Hierarchical Modeling and Machine Learning for Complex Survey Data"
