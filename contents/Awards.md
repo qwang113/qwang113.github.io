@@ -1,0 +1,2 @@
+- Regents Fellowships, Spring 2022
+- UCSC Graduate Dean's Research Travel Grant, Winter 2025
