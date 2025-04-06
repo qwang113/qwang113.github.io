@@ -12,5 +12,5 @@ Address: 1156 High St, Santa Cruz, CA 95064
 🎓 B.S in Applied Statistics, [Central University of Finance and Economics](https://en.cufe.edu.cn/) ([中央财经大学](https://www.cufe.edu.cn/)) (2015-2019)
 
 ## Research Interests
-Deep Learning, Spatial Data, Count Time Series, Markov Chains
+Spatial Model, Count Time Series, Spatio-temporal Process, Markov Chains
 
