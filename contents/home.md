@@ -1,6 +1,6 @@
 [![qwang113](https://img.shields.io/badge/qwang113-github-blue?logo=github)](https://github.com/qwang113)
 
-I am a current Ph.D. candidate in [University of California, Santa Cruz](https://www.ucsc.edu/), advised by [Paul A. Parker](https://www.paparkerstat.com/). I also work with [Robert B. Lund](https://engineering.ucsc.edu/voices/robert-lund-faculty/) at UC Santa Cruz. We are working on modeling spatial and spatio-temporal data via combining classical autoregressive model with deep learning architectures.
+I am a current Ph.D. candidate in [University of California, Santa Cruz](https://www.ucsc.edu/), advised by [Paul A. Parker](https://www.paparkerstat.com/). I also work with [Robert B. Lund](https://engineering.ucsc.edu/voices/robert-lund-faculty/) at UC Santa Cruz. We are working on modeling spatial and spatio-temporal data via mordern Bayesian statistical approaches.
 
 ## Contact
 Email: qwang113@ucsc.edu\
