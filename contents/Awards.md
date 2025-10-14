@@ -1,2 +1,4 @@
-- UCSC Regents Fellowships, Spring 2022
+- UCSC Dissertation-Year Fellowship ($33,000 + tuition), Spring 2025
+- UCSC First Generation Graduate Group Research and Travel Award, Spring 2025
 - UCSC Graduate Dean's Research Travel Grant, Winter 2025
+- UCSC Regents Fellowships, Spring 2022
