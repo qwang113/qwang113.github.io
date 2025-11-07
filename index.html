@@ -59,39 +59,38 @@
     <script type="text/javascript" src="static/js/js-yaml.min.js"></script>
 
     <style>
-        /* ============ Avatar Styling ============ */
-        #avatar {
-            position: absolute;
-            bottom: -80px;
-            left: 12%;
+        /* --- Floating Avatar --- */
+        #floating-avatar {
+            position: fixed;         /* ✅ 悬浮在整个页面上 */
+            top: 220px;              /* 调整垂直位置 */
+            right: 8%;               /* 调整水平位置 */
+            z-index: 999;            /* ✅ 始终浮在最上面 */
             background: white;
             border-radius: 15px;
             box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
             padding: 8px;
+            max-width: 240px;        /* 控制最大宽度 */
         }
 
-        #avatar img {
-            width: 200px;          /* 调整大小 */
-            height: auto;
+        #floating-avatar img {
             display: block;
+            width: 100%;
+            height: auto;            /* ✅ 保持原比例 */
             border-radius: 12px;
-            object-fit: contain;    /* ✅ 不再裁剪，保持完整比例 */
         }
 
-        /* Responsive: center avatar on mobile */
-        @media (max-width: 768px) {
-            #avatar {
-                left: 50%;
-                transform: translateX(-50%);
-                bottom: -70px;
-            }
-
-            #avatar img {
-                width: 170px;
+        /* Responsive: 调整手机上位置和大小 */
+        @media (max-width: 992px) {
+            #floating-avatar {
+                position: absolute;
+                top: 320px;
+                right: 50%;
+                transform: translateX(50%);
+                max-width: 180px;
+                padding: 6px;
             }
         }
 
-        /* Banner Section */
         .top-section {
             background-size: cover;
             background-position: center;
@@ -126,20 +125,20 @@
         </div>
     </nav>
 
-    <!-- ============ Top Section ============ -->
+    <!-- Top Section -->
     <section class="top-section" style="background-image: url('static/assets/img/harbin-travel-1920.jpg');">
         <div class="top-section-content">
             <div class="container px-5">
                 <h2 id="top-section-bg-text" class="text-white display-3 lh-1 font-alt">Statistics</h2>
             </div>
         </div>
-
-        <!-- Avatar -->
-        <div id="avatar">
-            <img src="static/assets/img/visa.jpg" alt="Qi Wang">
-        </div>
     </section>
-    <!-- ============ End Top Section ============ -->
+    <!-- End Top Section -->
+
+    <!-- Floating Avatar -->
+    <div id="floating-avatar">
+        <img src="static/assets/img/visa.jpg" alt="Qi Wang">
+    </div>
 
     <!-- Home -->
     <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="home" style="padding-top: 100px;">
