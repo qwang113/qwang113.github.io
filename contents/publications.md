@@ -6,9 +6,15 @@
 
 ## Preprints
 
+- Kawano, S., Vedensky, D., Dong, Q., Pawl, E., **Wang, Q.**, Parker, P. A., Li, Z. R., and Holan, S. H. (2026). [Nonprobability samples for small area estimation: A review and comparative simulation study](https://arxiv.org/abs/2608.13673). *arXiv preprint arXiv:2608.13673*.
+
 - Kei, Y. L.<sup>†</sup>, **Wang, Q.**<sup>†</sup>, Parker, P., Ribalet, F., and Hyun, S. (2026). [Change point detection for cell populations measured via flow cytometry](https://arxiv.org/abs/2603.05700). *arXiv preprint arXiv:2603.05700*.
 
 <sup>†</sup> Co-first authors.
+
+## Dissertation
+
+- **Wang, Q.** (2026). [Modern statistical methods for modeling spatial and temporal processes](https://escholarship.org/content/qt51w1t2n8/qt51w1t2n8.pdf). Ph.D. dissertation, University of California, Santa Cruz.
 
 ## Manuscripts Under Review
 
