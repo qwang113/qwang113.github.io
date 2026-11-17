@@ -8,10 +8,12 @@ Address: Grace Crum Rollins Building, Office 234, 1518 Clifton Road NE, Atlanta,
 
 ## Academic Positions
 Postdoctoral Fellow in Biostatistics, [Emory University](https://www.emory.edu/), August 2026--Present.\
-Department of Biostatistics and Bioinformatics, Rollins School of Public Health
+Department of Biostatistics and Bioinformatics, Rollins School of Public Health\
+Advised by [Emily N. Peterson](https://sph.emory.edu/profile/faculty/emily-peterson).
 
 ## Education
 🎓 Ph.D. in Statistical Science, [University of California, Santa Cruz](https://www.ucsc.edu/) (2021-2026).\
+Advised by [Paul A. Parker](https://www.paparkerstat.com/).\
 🎓 M.S. in Statistics, [University of California, Irvine](https://uci.edu/) (2019-2021). \
 🎓 B.S in Applied Statistics, [Central University of Finance and Economics](https://en.cufe.edu.cn/) ([中央财经大学](https://www.cufe.edu.cn/)) (2015-2019)
 
